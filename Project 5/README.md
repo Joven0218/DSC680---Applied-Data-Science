@@ -2,19 +2,6 @@ Data Transformation Excellence:
 
 This project focuses on the cleaning and formatting of flat file data sources using a Jupyter Notebook environment. It incorporates Python libraries such as pandas, numpy, and matplotlib to manipulate data and possibly prepare it for further analysis or visualization, indicating an emphasis on data preprocessing and exploratory data analysis as foundational steps in a larger data science or analytics project.
 
-__Outcome of EDA__
-
-The below questions will help address the main question of:  *How can we make dealers and products more profitable by determinig the relationships of the data points collected?* 
-
-1. Can a predictive model help project claims assumptions using historical data and trends? 
-2. Has there been in an increase in claims volume, or a decrease? 
-3. Are there regional concentrations of dealers that are performing under contract terms? 
-4. Can we pinpoint ill performing dealers with the model? 
-5. Are the claims increasing or decreasing in a certain product group? 
-6. Are the claims increasing or decreasing in relation to a certain product and manufacturer? 
-7. Is there sufficient reserves for future claims? 
-8. Are the warranty products priced correctly?
-
 Within the warranty business, the process of claims is approaching real time acceptance and denial. The certificate to replace a product, service a product and pay any associated costs with the claim needs to happen within a set time frame according to contract terms. Usually within 72 hours. An example within this project case with appliances would be to determine if the product is serviceable, start the process to get a tech out to the house.  If determined to be a total loss, send certificate for full replacement and any associated costs with that replacement such as food loss. I began with EDA on my data sets, determining if I have sufficient volume with 3 years of sales and claims historical.  I then calculated the ultimate loss ratio to determine if the premiums outweigh the loss projections. With this information I then conducted a correlation exercise to determine what data point has the most impact on the ultimate loss ratio. These steps lead to the regression analysis on how the products will perform in the future and whether the business model is sustainable.
 
 The earnings pattern of the warranties sold should more than cover the cost to service the product over the life of the warranty. My approach addressed many aspects of what determines to be a good profit margin (15% or greater) and an ultimate loss ratio of 73%.  I can not say it will be fully addressed as there may be factors outside of my approach that I can address in future project work. When complete, a recommendation can be given as to the areas that need to be addressed to improve the products performance within the pricing model, claims costs and cost sharing.
