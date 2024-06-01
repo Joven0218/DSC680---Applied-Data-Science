@@ -1,1 +1,3 @@
-5.  Data Transformation Excellence:  This project focuses on the cleaning and formatting of flat file data sources using a Jupyter Notebook environment. It incorporates Python libraries such as pandas, numpy, and matplotlib to manipulate data and possibly prepare it for further analysis or visualization, indicating an emphasis on data preprocessing and exploratory data analysis as foundational steps in a larger data science or analytics project.
+Data Transformation Excellence:  
+
+This project focuses on the cleaning and formatting of flat file data sources using a Jupyter Notebook environment. It incorporates Python libraries such as pandas, numpy, and matplotlib to manipulate data and possibly prepare it for further analysis or visualization, indicating an emphasis on data preprocessing and exploratory data analysis as foundational steps in a larger data science or analytics project.
