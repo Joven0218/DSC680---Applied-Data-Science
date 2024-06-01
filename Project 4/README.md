@@ -41,24 +41,6 @@ Within the warranty business, the process of claims is approaching real-time acc
 
 I began with EDA on my data sets, determining if I have sufficient volume with 5 years of sales and claims historical data. I then calculated the ultimate loss ratio to determine if the premiums outweigh the loss projections. With this information, I conducted a correlation exercise to determine what data point has the most impact on the ultimate loss ratio. These steps led to the regression analysis on how the products will perform in the future and whether the business model is sustainable.
 
-Implications
-Product	Net Adjusted Premium	Paid Losses	Future Claim Liability	Ultimate Losses	Ultimate Loss Ratio
-Refrigerators	$13,027,882	$1,025,254	$11,777,503	$12,802,756	98.3%
-Washers	$6,552,717	$463,709	$4,942,869	$5,406,578	82.5%
-Other Appliances	$14,911,779	$836,660	$9,090,615	$9,927,275	66.7%
-Television	$495,786	$70,009	$335,904	$405,912	81.9%
-Total	$34,988,163	$2,395,632	$26,146,890	$28,542,521	81.6%
-
-We can see from the summary table above that the Ultimate Loss Ratio is above the target 73% for the book of business. The formula = Ultimate Losses/Net Adjusted Premium = Ultimate Loss Ratio.
-
-Several further investigations are needed to determine next steps, but we can conclude:
-
-    Refrigerators are number one in all categories: total premium sold, total claims, and loss ratio. Followed by washers, number 2 in sales and number 3 in loss ratio. These 2 products make up more than 50% of the top 15 product groups in terms of number sold, premium collected, and losses incurred.
-    Whirlpool and Frigidaire are the lowest-performing manufacturers in these product groups.
-    Bray & Scarff followed by Good Deals are the lowest-performing dealers in the top 15.
-    Sales and claims concentration fall in 2 states, CA followed by FL.
-    The product retail price correlates to the loss amount incurred, meaning the higher the price of the item, the higher the loss claim amount is.
-
 Limitations
 
 There were a few limitations on how the overall operating income performance is scored. The largest being, I did not have access to the overhead expenses on servicing these dealers and products. The assumption is that as long as the Ultimate Loss Ratio remains at or below 73%, the company will be profitable. This is a big assumption as salaries and related is the second largest expense for this business model outside of losses.
