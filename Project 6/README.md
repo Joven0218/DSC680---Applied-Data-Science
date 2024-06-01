@@ -1,4 +1,5 @@
 Commercial Insurance Churn Prediction
+
 Introduction
 
 Customer retention is crucial for the long-term success of commercial insurance businesses. This project aims to tackle the issue of customer churn by leveraging a comprehensive dataset of business policies. By developing a predictive model, we aim to help insurance companies identify potential cancellations, enhance retention rates, and drive profitability.
